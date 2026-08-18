@@ -30,6 +30,9 @@ yarn-error.*
 .DS_Store
 *.pem
 
+# editor/tooling config
+.claude/
+
 # local env files
 .env*.local
 

@@ -1,19 +1,18 @@
 {
   "expo": {
-    "name": "BlinkMoneyAss",
-    "slug": "BlinkMoneyAss",
+    "name": "BlinkMoney Wealth Journey",
+    "slug": "blinkmoney-wealth-journey",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "automatic",
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
+        "backgroundColor": "#0A0F0C",
         "foregroundImage": "./assets/android-icon-foreground.png",
-        "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false
